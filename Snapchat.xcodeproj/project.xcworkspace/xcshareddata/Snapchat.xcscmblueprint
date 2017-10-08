@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "67861F3DD59EF63878211EC246CF8D2364B96DF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "91C1794460ABEAE2E0E5F6861533FE1E37491D1C" : 9223372036854775807,
+    "67861F3DD59EF63878211EC246CF8D2364B96DF5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0371B040-A970-4853-98AB-1ACC67F4660F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "91C1794460ABEAE2E0E5F6861533FE1E37491D1C" : "",
+    "67861F3DD59EF63878211EC246CF8D2364B96DF5" : "DoIt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Snapchat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Snapchat\/Snapchat.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wejus\/DoIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67861F3DD59EF63878211EC246CF8D2364B96DF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wejus\/Learning-XCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91C1794460ABEAE2E0E5F6861533FE1E37491D1C"
+    }
+  ]
+}
